@@ -22,7 +22,7 @@ import javax.swing.plaf.synth.SynthStyleFactory;
 import javax.swing.plaf.synth.SynthUI;
 import javax.xml.validation.SchemaFactoryConfigurationError;
 
-public class lect_3 {
+class lect_3 {
     public static void main(String[] args) {
 
         // #1 area of circle
