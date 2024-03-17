@@ -1,28 +1,6 @@
-package ConditionalLoops03;
+package src.ConditionalLoops03;
 
-import java.nio.channels.ScatteringByteChannel;
-import java.security.Permission;
-import java.security.KeyStore.ProtectionParameter;
-import java.util.Scanner;
-import java.util.concurrent.CancellationException;
-import java.util.function.DoubleBinaryOperator;
-import java.util.function.DoublePredicate;
-import java.util.logging.FileHandler;
-
-import javax.annotation.processing.SupportedSourceVersion;
-import javax.management.ValueExp;
-import javax.naming.spi.DirStateFactory.Result;
-import javax.sound.midi.Soundbank;
-import javax.sound.midi.SysexMessage;
-import javax.swing.plaf.synth.SynthOptionPaneUI;
-import javax.swing.plaf.synth.SynthPanelUI;
-import javax.swing.plaf.synth.SynthSeparatorUI;
-import javax.swing.plaf.synth.SynthSpinnerUI;
-import javax.swing.plaf.synth.SynthStyleFactory;
-import javax.swing.plaf.synth.SynthUI;
-import javax.xml.validation.SchemaFactoryConfigurationError;
-
-public class lect_3 {
+public class Loops {
     public static void main(String[] args) {
 
         // #1 area of circle
