@@ -18,9 +18,12 @@ public class LC1920 {
 
     }
 
+}
+class Main3 {
     public static void main(String[] args) {
-        int[] nums = new int[]{5,0,1,2,3,4};
-        int[] array = buildArray(nums);
+        int[] nums = new int[]{5, 0, 1, 2, 3, 4};
+        LC1920 lc1920 = new LC1920();
+        int[] array = LC1920.buildArray(nums);
         System.out.println("array = " + Arrays.toString(array));
     }
 }
