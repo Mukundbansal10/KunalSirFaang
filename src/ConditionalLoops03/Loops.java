@@ -728,16 +728,27 @@ class lect_3 {
         // System.out.println("false");
         // }
 
-        // String S = "Ayeshuu";
-        // String reverse = "";
-        // for (int i = S.length() - 1; i >= 0; i--) {
-        //     reverse += S.charAt(i);
-        // }
-        // if (reverse.equals(S)) {
-        //     return 1;
-        // } else {
-        //     return 0;
-        // }
+//         String S = "Ayeshuu";
+//         String reverse = "";
+//         for (int i = S.length() - 1; i >= 0; i--) {
+//             reverse += S.charAt(i);
+//         }
+//         if (reverse.equals(S)) {
+//             return 1;
+//         } else {
+//             return 0;
+//         }
+
+//        String S = "Ayeshuu";
+//        String reverse = "";
+//        for (int i = S.length() - 1; i >= 0; i--) {
+//            reverse += S.charAt(i);
+//        }
+//        if (reverse.equals(S)) {
+//            return 1;
+//        } else {
+//            return 0;
+//        }
 
 
         
