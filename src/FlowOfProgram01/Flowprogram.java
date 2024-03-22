@@ -151,7 +151,30 @@ public class Flowprogram {
 
 
         // Scanner sc = new Scanner(System.in);
-        
-        
-        }
+
+
+
+
+
+
+        // #9= palindrome
+
+        // Scanner sc = new Scanner(System.in);
+        // System.out.print("enter the string:");
+        // String str = sc.next();
+        // String reverse = "";
+        // for(int i = str.length()-1;i>=0;i--){
+        //     reverse+=str.charAt(i);
+        // }
+        // if(str.equals(reverse)){
+        //     System.out.println("string is palindrome");
+        // }
+        // else{
+        //     System.out.println("string is not palindrome");
+        // }
+
+
+        // Scanner sc = new Scanner(System.in);
+
+    }
 }
