@@ -32,8 +32,24 @@ public class LC867 {
             System.out.println("Arrays.toString(a) = " + Arrays.toString(a));
         }
     }
-
-
-
-
 }
+
+//more optimized appoach
+
+//class Solution {
+//    public int[][] transpose(int[][] matrix) {
+//        int rowCount = matrix.length;
+//        int colCount = matrix[0].length;
+//
+//        int[][] transposedMatrix = new int[colCount][rowCount];
+//
+//        for (int row = 0; row < rowCount; row++) {
+//            for (int col = 0; col < colCount; col++) {
+//                transposedMatrix[col][row] = matrix[row][col];
+//            }
+//        }
+//
+//        return transposedMatrix;
+//    }
+//}
+//
